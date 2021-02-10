@@ -1,7 +1,7 @@
 # MissingInteger
 This repository is aimed to determine the smallest integer that is not present in a given array.
 
-(This is taken from Exercism site)
+(This is taken from Codility site)
 
 Task description:
 
